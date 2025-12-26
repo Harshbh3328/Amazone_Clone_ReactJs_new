@@ -102,14 +102,6 @@ Run `npm start` to start the application
 ![image](https://user-images.githubusercontent.com/81776711/224616059-925032b3-17a6-481e-80e7-f55016b81a09.png)
 
 
-# UI design inspirations
-
-The UI of the project is completely inspired and even taken from these, all the design credits goes to them:
-
-[Home Page](https://dribbble.com/shots/15350650-Amazon-Website-Redesign-Concept)
-
-[Profile section](https://dribbble.com/shots/20739514-Ecommerce-Account-Page-Dashboard-UXUI)
-
 
 # Contributing
 
